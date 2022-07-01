@@ -1,2 +1,0 @@
-# polyfans.github.io
-polyfans
